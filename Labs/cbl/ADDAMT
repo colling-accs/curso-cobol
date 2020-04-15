@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.
-           ADDAMT.
+           teste.
       *******************************************************
       *    This program accepts input and displays output    *
       *******************************************************
